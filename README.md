@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🎀HanBi🎀&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HanBi&fontSize=60)
     
 <div align=center>
 
